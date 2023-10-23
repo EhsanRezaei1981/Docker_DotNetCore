@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dikPpz/bChJ5zilLW8pZ92SUxCTlRQXH0ELDmKtpLDU=",
+  "Source": "dotnet_core_api_docker",
+  "BasePath": "_content/dotnet_core_api_docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
